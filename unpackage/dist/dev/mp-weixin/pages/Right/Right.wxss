@@ -1,0 +1,27 @@
+
+._ul.data-v-3178bfc0 {
+	padding: 0;
+}
+.top-list.data-v-3178bfc0 {
+	border-radius: 10rpx;
+	padding: 30rpx;
+	margin: 20rpx auto;
+	width: 600rpx;
+	background-color: #e5e9f2;
+	min-height: 400rpx;
+	box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+.unadd-alert.data-v-3178bfc0 {
+	margin-bottom: 10rpx;
+}
+.todo-input.data-v-3178bfc0 {
+	margin-right: 40rpx;
+}
+.item-list.data-v-3178bfc0 {
+	/* overflow: auto; */
+	margin-top: 30rpx;
+	max-height: 800rpx;
+	display: flex;
+	flex-direction: column;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "待办",
+  "usingComponents": {
+    "todo": "/components/Todo/Todo",
+    "todo-footer": "/components/TodoFooter/TodoFooter"
+  }
+}

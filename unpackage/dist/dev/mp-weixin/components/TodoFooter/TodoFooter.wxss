@@ -1,0 +1,12 @@
+
+.footer.data-v-0435a524 {
+	position: absolute;
+	bottom: 50rpx;
+	width: 90%;
+	padding: 30rpx;
+	display: flex;
+	justify-content: space-around;
+	background-color: #e5e9f2;
+	box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+

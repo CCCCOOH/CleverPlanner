@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/404/404",
+    "pages/AiHelper/AiHelper",
+    "pages/Middle/Middle",
+    "pages/TodoApp/TodoApp"
+  ],
+  "subPackages": [
+    {
+      "root": "subpages",
+      "pages": [
+        "news/news",
+        "AiHelper/AiHelper"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "iconfontSrc": "static/iconfont.ttf",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/center.png",
+        "selectedIconPath": "static/center.png"
+      },
+      {
+        "pagePath": "pages/AiHelper/AiHelper",
+        "iconPath": "static/left.png",
+        "selectedIconPath": "static/left.png"
+      },
+      {
+        "pagePath": "pages/TodoApp/TodoApp",
+        "iconPath": "static/right.png",
+        "selectedIconPath": "static/right.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

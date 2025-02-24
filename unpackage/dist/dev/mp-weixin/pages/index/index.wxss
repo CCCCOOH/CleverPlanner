@@ -1,0 +1,38 @@
+
+.icon-title.data-v-57280228 {
+	color: #606266;
+	display: inline-block;
+	font-size: 30rpx;
+	width: 120rpx;
+	text-align: center;
+}
+.app-icon.data-v-57280228 {
+	width: 120rpx;
+	height: 120rpx;
+}
+.apps-row.data-v-57280228 {
+	padding-left: 40rpx;
+	padding-top: 20rpx;
+	padding-bottom: 20rpx;
+	margin: 60rpx 30rpx;
+	border-radius: 4px;
+	background-color: #E4E7ED;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);
+}
+.container.data-v-57280228 {
+	border-radius: 60rpx;
+	background-color: #F2F6FC;
+	padding-top: 100rpx;
+	height: 1000rpx;
+	box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+.text-area text.data-v-57280228 {
+	font-size: 50rpx;
+	color: #409EFF;
+	margin-left: 40rpx;
+}
+.title.data-v-57280228 {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+
